@@ -1,0 +1,11 @@
+{
+  "domain": "dual_entity_light",
+  "name": "Dual Entity Light",
+  "documentation": "https://github.com/michnovka/HomeAssistant-DualEntityLight",
+  "issue_tracker": "https://github.com/michnovka/HomeAssistant-DualEntityLight/issues",
+  "codeowners": [
+    "@michnovka"
+  ],
+  "version": "1.0.0",
+  "minimum_python": "3.10"
+}
